@@ -1,0 +1,37 @@
+/* https://cdn1.tianli0.top/gh/jinghu-moon/Blog_Static_Files@main/font/HYXuanSong35S%2BLora-Regular.woff2" */
+/* https://cdn1.tianli0.top/gh/jinghu-moon/Blog_Static_Files@main/font/HarmonyOS_Sans_SC_Regular.woff2" */
+/* https://cdn1.tianli0.top/gh/jinghu-moon/Blog_Static_Files@main/font/SJgzks.woff2" */
+@font-face {
+  font-family: "汉仪玄宋";
+  src        : url("../font/HYXuanSong35S+Lora-Regular.woff2") format("woff");
+  font-style : normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "HarmonyOS";
+  src        : url("../fonts/HarmonyOS_Sans_SC_Regular.woff2") format("woff2");
+  font-style : normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Fira";
+  src        : url("../font/FiraCode-Regular.woff2") format("woff2");
+  font-style : normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "LXGW";
+  src        : url("../font/LXGWWenKai-Regular.woff2") format("woff2");
+  font-style : normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "三极古拙楷书简";
+  src        :url("../fonts/SJgzks.woff2") format("woff2");
+  font-style : normal;
+  font-weight: normal;
+}
