@@ -1,11 +1,1 @@
-function load_language() {
-    var blocks = $('code.hljs');
-    for (var i = 0; i < blocks.length; i++) {
-        var span = document.createElement('span');
-        span.classList.add('codeblock-language');
-        span.innerHTML = blocks[i].classList[1];
-        blocks[i].insertBefore(span, blocks[i].children[0]);
-    }
-}
-
-$(document).ready(load_language);
+function load_language(){for(var e=$("code.hljs"),a=0;a<e.length;a++){var n=document.createElement("span");n.classList.add("codeblock-language"),n.innerHTML=e[a].classList[1],e[a].insertBefore(n,e[a].children[0])}}$(document).ready(load_language);
